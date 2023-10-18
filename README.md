@@ -6,7 +6,7 @@
 Then on choosing the destination the Screen switches to another page that holds the details of the package including costings, ratings, location details, etc. 
 On entering the required data the app Enters the Terminating Screen.
 
-<img width="3974" alt="Frame 9" src="https://github.com/mahesh-bora/flutter_travel_app/assets/101460679/9d07a53e-1175-4f38-8dcd-05390a085777">
+<img width="3974" alt="Frame 9" src="https://github.com/sajibsaj66/flutter_travel_app/assets/101460679/9d07a53e-1175-4f38-8dcd-05390a085777">
 
 ## User Interface
 
@@ -31,7 +31,7 @@ On entering the required data the app Enters the Terminating Screen.
 Clone the repository and change directory.
 
 ```bash
-  git clone https://github.com/mahesh-bora/flutter_travelApp.git
+  git clone https://github.com/sajibsaj66/flutter_travel_app
 ```
 
 Go to the project directory
@@ -61,7 +61,7 @@ Distributed under the MIT License. See [License](https://choosealicense.com/lice
 
 ## 🖊️Authors
 
-- [Mahesh Bora](https://www.github.com/mahesh-bora) - (boraamahesh@gmail.com)
+- [Mahesh Bora](https://github.com/sajibsaj66) - (sajibsaj66@gmail.com)
 
 
 ## Contributing
