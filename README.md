@@ -61,7 +61,7 @@ Distributed under the MIT License. See [License](https://choosealicense.com/lice
 
 ## 🖊️Authors
 
-- [Mahesh Bora](https://github.com/sajibsaj66) - (sajibsaj66@gmail.com)
+- [Shamsul Alam Sajib](https://github.com/sajibsaj66) - (sajibsaj66@gmail.com)
 
 
 ## Contributing
